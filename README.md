@@ -4,7 +4,7 @@ Fucionalidade: Incrementa contador ao clicar no botão Incrementar e exibe o val
 
 #### Imagem:
 
-![](.\img01-react.png) 
+<img src=".\img01-react.png"  /> 
 
 
 
