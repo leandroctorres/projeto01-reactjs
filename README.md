@@ -1,3 +1,19 @@
+# Projeto Simples
+
+Fucionalidade: Incrementa contador ao clicar no botão Incrementar e exibe o valor na tela.
+
+#### Imagem:
+
+![](.\img01-react.png) 
+
+
+
+### Referência:
+
+* https://www.youtube.com/watch?v=ytE_IlF0xv8
+
+  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
